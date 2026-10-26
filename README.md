@@ -52,11 +52,11 @@
 
 或许是之前说要做的吐槽小插件。
 
-**Tech Stack**: TODO
 
-### 📔 [Cadence](https://github.com/colliderkkz/Cadence)
+### 📔 [memo](https://github.com/colliderkkz/Cadence)
 
 个人日记平台 —— 记录生活的节奏。
+由Pleasurecruise/my-memos改编
 
 ---
 
