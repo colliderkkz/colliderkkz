@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README for @colliderkkz
-  使用方法：新建一个和你用户名同名的仓库 colliderkkz/colliderkkz，
-  把这个文件作为 README.md 传上去，GitHub 会自动渲染到你的主页。
-  记得把下面标了 TODO 的地方换成你自己的信息！
--->
 
 <h1 align="center">👋 Hi, I'm colliderkkz</h1>
 
@@ -27,7 +21,6 @@
   🔭 在嵌入式和深度学习的交叉口折腾<br>
   🐟 给鱼缸装上了 LSTM 和 ESP32 的大脑<br>
   💬 欢迎交流，什么都可以聊<br>
-  📫 TODO: 你的邮箱 / 联系方式
 </p>
 
 ---
