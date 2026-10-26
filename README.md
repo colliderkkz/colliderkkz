@@ -50,7 +50,7 @@
 
 ### 😤 [HECKLE](https://github.com/colliderkkz/HECKLE)
 
-或许是之前说要做的吐槽小插件。⭐ 我 star 数最多的项目。
+或许是之前说要做的吐槽小插件。
 
 **Tech Stack**: TODO
 
