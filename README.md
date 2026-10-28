@@ -29,21 +29,21 @@
 
 ## 🔍 About me
 
-喜欢把感兴趣的想法做成真正能用的软件。最近的主线是 **Ariadne**：把想法记录、AI 对话和项目推进放进同一个工作区。
+从给鱼缸装上“会预测”的大脑，到为零散的想法寻找一条行动线索，我喜欢把感兴趣的念头做成真正能用的东西。最近的主线是 **Ariadne**：把想法记录、AI 对话和项目推进放进同一个工作区。
 
-我也在探索嵌入式开发、后端服务与 Agent 应用，关心技术实现，也关心产品用起来是否顺手。
+我也在探索嵌入式开发、后端服务与 Agent 应用。写代码之外，我会反复琢磨：它解决了什么问题，用起来是否顺手？
 
 ---
 
 ## 💻 Featured Projects
 
-### 🧵 [Ariadne](https://github.com/colliderkkz/Ariadne)
+### 🧵 [Ariadne](https://github.com/colliderkkz/Ariadne) · AI 应用 / 持续开发
 
 我的主打项目：从零散想法出发，在 AI 对话中梳理思路，再把想法推进为项目。前端、后端与数据持久化由我持续开发和迭代。
 
 **Tech Stack**: `Next.js` `FastAPI` `PostgreSQL` `LLM API`
 
-### 🐟 [An Intelligent Aquarium System](https://github.com/colliderkkz/An-Intelligent-Aquarium-System-Based-on-LSTM-Prediction-and-ESP32-Edge-Computing)
+### 🐟 [An Intelligent Aquarium System](https://github.com/colliderkkz/An-Intelligent-Aquarium-System-Based-on-LSTM-Prediction-and-ESP32-Edge-Computing) · 嵌入式 / 边缘 AI
 
 基于 **ESP32-S3** 的嵌入式系统 + **LSTM 水质预测模型**的构建与边缘部署。
 针对多传感器融合、边缘 AI 部署等关键问题给出的完整解决方案 ——
@@ -51,24 +51,30 @@
 
 **Tech Stack**: `ESP32-S3` `LSTM` `Python` `Edge AI` `Multi-Sensor Fusion`
 
-### 🎯 [Yolov5-Deepsort Underwater Tracking](https://github.com/colliderkkz/Yolov5-Deepsort-main)
+### 🎯 [Yolov5-Deepsort Underwater Tracking](https://github.com/colliderkkz/Yolov5-Deepsort-main) · 计算机视觉
 
 基于 **YOLOv5s + DeepSORT** 实现水下生物游速的自动化识别与计算，
 针对水下图像模糊、光线暗、目标遮挡等问题做了优化。
 
 **Tech Stack**: `YOLOv5` `DeepSORT` `Computer Vision`
 
-### 😤 [HECKLE](https://github.com/colliderkkz/HECKLE)
+### 😤 [HECKLE](https://github.com/colliderkkz/HECKLE) · 桌面软件 / LLM
 
 一个会根据当前应用和窗口切换生成吐槽的 Windows 桌面小应用。
 
 **Tech Stack**: `Python` `Windows` `LLM API`
 
 
-### 📔 [memo](https://github.com/colliderkkz/Cadence)
+### 📔 [memo](https://github.com/colliderkkz/Cadence) · Web 应用
 
 个人日记平台 —— 记录生活的节奏。
 由Pleasurecruise/my-memos改编
+
+---
+
+## 🧪 Research Notes
+
+目前在探索**长视频异常检测**中的时序建模与记忆机制，关注模型怎样在有限的记忆容量下保留有用的历史信息。这项研究仍在进行中。
 
 ---
 
